@@ -3,8 +3,9 @@ I am a Python developer with experience in:
 
 Python, Django, Aiogram (Telegram bots), SQLite3, MySQL, HTML, CSS, basic JavaScript, Kivy, Tkinter (GUI applications)
 Tools: Git
-🛡️ Security and pentesting:
 
+
+🛡️ Security and pentesting:
 OSINT (De-anonymization), Doxing, Phishing attacks
 Nmap/Acunetix/Nessus, Metasploitable
 Aircrack, Wifite, Hashcat, Wireshark

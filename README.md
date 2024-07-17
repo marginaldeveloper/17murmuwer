@@ -1,10 +1,11 @@
 #Hello, just a little drop of information about me
 
 
+
 class PythonDeveloper:
     def __init__(self):
         self.skills = {
-
+        
             "programming": [
                 "Python 🐍",
                 "Django 🌐",
@@ -45,13 +46,3 @@ class PythonDeveloper:
                 "Selling private databases related to 🇷🇺 💾"
             ]
         }
-
-    def show_skills(self):
-        for category, skills in self.skills.items():
-            print(f"{category.capitalize()}:")
-            for skill in skills:
-                print(f" - {skill}")
-
-if __name__ == "__main__":
-    dev = PythonDeveloper()
-    dev.show_skills()

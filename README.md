@@ -1,3 +1,4 @@
+#Hello, just a little drop of information about me
 class PythonDeveloper:
     def __init__(self):
         self.skills = {

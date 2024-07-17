@@ -1,6 +1,8 @@
 class PythonDeveloper:
     def __init__(self):
         self.skills = {
+
+        
             "programming": [
                 "Python 🐍",
                 "Django 🌐",
@@ -13,6 +15,8 @@ class PythonDeveloper:
                 "Kivy 🌱",
                 "Tkinter (GUI apps) 🖥️"
             ],
+
+            
             "tools": [
                 "Git 🛠️"
             ],
@@ -27,11 +31,13 @@ class PythonDeveloper:
                 "Hashcat 🔑",
                 "Wireshark 🌊"
             ],
+        
             "languages": [
                 "Fluent in English 🇬🇧",
                 "Native Russian 🇷🇺",
                 "Basic German 🇩🇪"
             ],
+            
             "other_skills": [
                 "Graphic design (Krita, Photoshop) 🎨",
                 "Selling private databases related to 🇷🇺 💾"

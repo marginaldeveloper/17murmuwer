@@ -4,7 +4,6 @@
   <h1 style="color:#00ff00; font-family:monospace;">Cyb3R4t</h1>
   <p style="color:#00ff00; font-family:monospace;">Ethical Hacker & Cybersecurity Expert</p>
   <p>
-    <a href="https://marginaldeveloper.github.io/Cyb3R4tWebsite/"><img src="https://img.shields.io/badge/Website-Cyb3R4t-blue"></a>
     <a href="mailto:ibservice.85@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red"></a>
   </p>
 </div>

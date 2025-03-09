@@ -63,7 +63,7 @@
 <h2 style="color:#00ff00; font-family:monospace;">Contact Me</h2>
 <ul style="color:#33ff33; font-family:monospace;">
 <li>Email: <a href="mailto:your-email@example.com" style="color:#00ff00;">ibservice.85@gmail.com</a></li>
-<li>Website: <a href="https://marginaldeveloper.github.io/Cyb3R4tWebsite/" style="color:#00ff00;">marginaldeveloper.github.io/Cyb3R4tWebsite/</a></li>
+<li>Website: <a href="https://marginaldeveloper.github.io/Cyb3rR4tWebsite/" style="color:#00ff00;">https://marginaldeveloper.github.io/Cyb3rR4tWebsite//</a></li>
 </ul>
 </div>
 

@@ -1,9 +1,44 @@
-👋 Hi there! I'm Albert Akulich. Python/HTML/CSS developer
+🔪 Cyb3R4t - Ethical Hacker & Cybersecurity Expert
 
-🚀 Ready for unconventional tasks, teamwork, and continuous learning.
+🔎 About Me
 
-🕵️‍♀️ **Looking for someone to track down? Need a website, application, or Telegram bot?** [@MarginalDeveloper]([https://web.telegram.org/a/#-1002236692994](https://t.me/EyeSpyAgency))
+Cyb3R4t — Ethical Hacker & Cybersecurity Expert
 
-🌐 **Check out my portfolio website:** [17murmuwer.github.io](https://17murmuwer.github.io/murmuwer.github.io/)
+"I hack not to destroy, but to protect. Knowledge is my weapon."
 
-Also my discord: @marginaldeveloper
+I'm a cybersecurity enthusiast specializing in OSINT, penetration testing, and ethical hacking. My mission is to explore, discover, and secure the digital world.
+
+🔧 Core Skills
+
+OSINT: Reverse Image Lookup, Geolocation (geoOSINT), Metadata Analysis, WHOIS & DNS Enumeration
+
+Scanning: Nmap, Nessus, Acunetix, Shodan/Censys, Custom Scripting
+
+Web Attacks: SSRF, CSRF, RCE, Subdomain Takeover, Clickjacking, XSS, SQL/NoSQL Injection
+
+Network Attacks: ARP Spoofing, MITM, Evil Twin, WPA2 KRACK, Deauthentication Attacks
+
+Social Engineering: Spear Phishing, Baiting, Tailgating, Pretexting
+
+Programming: Python (Django/Flask), PHP, HTML/CSS/JS, Git
+
+Database: SQLite3, SQLAlchemy, MySQL, OracleDB
+
+Traffic Analysis: Wireshark, Wazuh
+
+👨‍💻 Work Experience
+
+Conducted penetration testing and OSINT operations, helping local businesses mitigate vulnerabilities.
+
+Worked in online booking, developing problem-solving and communication skills.
+
+IBSERVICE: 6 months to present.
+
+Avito: 2 years (2022–2024).
+
+🔗 Collaborations
+
+FMF.MD - Federation of Football of Moldova
+
+AmericanRetailUSA - www.americanretailusa.com
+

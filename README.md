@@ -15,7 +15,7 @@
 <h2 style="color:#00ff00; font-family:monospace;">About Me</h2>
 <pre style="color:#33ff33; font-family:monospace;">
 > "No hugging, only debugging :D "
-> Specialized in OSINT, Penetration Testing, and Ethical Hacking.
+> Specialized in OSINT, Penetration Testing.
 > Exploring, discovering, and securing the digital world.
 </pre>
 </div>

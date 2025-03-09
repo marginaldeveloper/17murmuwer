@@ -14,7 +14,7 @@
 <div style="background-color:#1a1a1a; padding:20px; border-radius:10px;">
 <h2 style="color:#00ff00; font-family:monospace;">About Me</h2>
 <pre style="color:#33ff33; font-family:monospace;">
-> "I hack not to destroy, but to protect. Knowledge is my weapon."
+> "No hugging, only debugging :D "
 > Specialized in OSINT, Penetration Testing, and Ethical Hacking.
 > Exploring, discovering, and securing the digital world.
 </pre>

@@ -62,9 +62,8 @@
 <div style="background-color:#1a1a1a; padding:20px; border-radius:10px;">
 <h2 style="color:#00ff00; font-family:monospace;">Contact Me</h2>
 <ul style="color:#33ff33; font-family:monospace;">
-<li>Email: <a href="mailto:your-email@example.com" style="color:#00ff00;">your-email@example.com</a></li>
+<li>Email: <a href="mailto:your-email@example.com" style="color:#00ff00;">ibservice.85@gmail.com</a></li>
 <li>Website: <a href="https://marginaldeveloper.github.io/Cyb3R4tWebsite/" style="color:#00ff00;">marginaldeveloper.github.io/Cyb3R4tWebsite/</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com" style="color:#00ff00;">Connect</a></li>
 </ul>
 </div>
 
